@@ -3,7 +3,7 @@
 Run from this folder:  .venv/bin/python architecture.py
 Requires: Graphviz + librsvg (brew install graphviz) and the `diagrams` Python package.
 
-Labels are deliberately generic (no client, site, building or room numbers).
+Labels are deliberately generic (no site, building or room numbers).
 """
 import subprocess
 from pathlib import Path
@@ -85,7 +85,7 @@ graph_attr = {
 }
 
 TITLE = (
-    "Defense Manufacturing Campus - Telecom, Security and Mass Notification Architecture\n"
+    "Lockheed Martin Manufacturing Campus - Telecom, Security and Mass Notification Architecture\n"
     "thick = fiber backbone   solid = structured cabling   blue dashed = security   "
     "pink dashed = mass notification   green dotted = power   grey = existing / owner-operated"
 )

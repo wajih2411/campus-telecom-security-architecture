@@ -1,8 +1,8 @@
 # Campus Telecom, Security and Mass Notification Architecture
 
-Design of the low-voltage infrastructure for a facility upgrade at a defense manufacturing campus: a new 11,000 sf administration building, the renovation of an existing manufacturing building, and the fit-out of two above-ground magazines.
+Design of the low-voltage infrastructure for a facility upgrade at a Lockheed Martin manufacturing campus: a new 11,000 sf administration building, the renovation of an existing manufacturing building, and the fit-out of two above-ground magazines.
 
-I was the electrical engineer responsible for the telecom, security and public address / mass notification design. Client, site, building and room identifiers and product names are intentionally left out.
+I was the electrical engineer responsible for the telecom, security and public address / mass notification design. Site, building and room identifiers and product names are intentionally left out.
 
 ![Architecture diagram](architecture.png)
 
